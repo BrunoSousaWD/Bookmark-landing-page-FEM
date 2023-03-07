@@ -495,14 +495,14 @@ h1 {
     cursor: pointer;
 }
 
-#arrow-up {
+.arrow-up {
     fill: none;
     stroke-width: 3;
     stroke: #5267DF;
 
 }
 
-#arrow-up.close {
+.arrow-up.close {
     transform: rotate(180deg);
     stroke: var(--clr-soft-red);
 }
