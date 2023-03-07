@@ -54,7 +54,6 @@ body {
     max-width: 1440px;
     margin: 0 auto;
     overflow-x: hidden;
-    border: 1px solid yellowgreen;
 }
 
 
@@ -676,13 +675,13 @@ footer .container {
     align-items: center;
 }
 
-.footer-right #facebook,
-.footer-right #twitter {
+.footer-right #logo-facebook-footer,
+.footer-right #logo-twitter-footer {
     cursor: pointer;
 }
 
-.footer-right #facebook:hover path,
-.footer-right #twitter:hover path {
+.footer-right #logo-facebook-footer:hover path,
+.footer-right #logo-twitter-footer:hover path {
     fill: var(--clr-soft-red);
 }
 
