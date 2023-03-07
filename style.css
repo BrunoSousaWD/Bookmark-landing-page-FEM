@@ -697,6 +697,10 @@ footer .container {
     font-weight: 500;
 }
 
+.attribution a:hover {
+    color: var(--clr-soft-red);
+}
+
 
 .navbar #mobile-humburger {
     display: none;
